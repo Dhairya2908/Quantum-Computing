@@ -6,3 +6,5 @@ This repo contains all the codes and projects completed by me in the field of Qu
 2. 2qubit.ipynb: First circuit involving 2 qubits and entanglement.(Cnot and h gate)
 3. CHSH.ipynb: Implementing the CHSH game
 4. BB84.ipynb: Implementing BB84 protocol and depicting superposition.
+
+# Grover's Algorithm
